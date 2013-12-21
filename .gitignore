@@ -1,4 +1,5 @@
-*.o
+sum
 exit
+*.o
 *.swp
 *.out
