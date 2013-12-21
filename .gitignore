@@ -1,2 +1,4 @@
 *.o
 exit
+*.swp
+*.out
