@@ -1,5 +1,6 @@
 sum
 exit
+factorial
 *.o
 *.swp
 *.out
